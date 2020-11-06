@@ -1,0 +1,26 @@
+html {
+    background-image: url(assets/topography/topography/topography.png);
+    font-family: consolas;
+}
+
+.body {
+    
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.elvalaszto {
+    text-align: center;
+}
+
+#def {
+    text-align: center;
+}
+
+#alcim {
+    color:#ff0099 ;
+}
+
+#header {
+    background-color:#333333 ;
+}
